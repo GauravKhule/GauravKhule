@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- - 👩🏻‍💻 All of my projects are available at https://github.com/GauravKhule
+- 👩🏻‍💻 All of my projects are available at https://github.com/GauravKhule
 
 - 📫 How to reach me **gauravkhule0901@gmail.com**
 
