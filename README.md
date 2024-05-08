@@ -6,6 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/gkkhule87337" target="blank"><img src="https://img.shields.io/twitter/follow/gkkhule87337?logo=twitter&style=for-the-badge" alt="gkkhule87337" /></a> </p>
 
+- 🌱 I’m currently learning **Java**
+
+- - 👩🏻‍💻 All of my projects are available at https://github.com/GauravKhule
+
 - 📫 How to reach me **gauravkhule0901@gmail.com**
 
 - ⚡ Fun fact **I have a secret talent for turning coffee into code.**
